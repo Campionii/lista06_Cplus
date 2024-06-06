@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47465025877\\Desktop\\lista06_Cplus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20F089-2460-422C-B437-D03C79D9FBAA}|ex06\\ex06.vcxproj|C:\\Users\\47465025877\\Desktop\\lista06_Cplus\\ex06\\ex06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E20F089-2460-422C-B437-D03C79D9FBAA}|ex06\\ex06.vcxproj|solutionrelative:ex06\\ex06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex06.cpp",
+              "DocumentMoniker": "C:\\Users\\47465025877\\Desktop\\lista06_Cplus\\ex06\\ex06.cpp",
+              "RelativeDocumentMoniker": "ex06\\ex06.cpp",
+              "ToolTip": "C:\\Users\\47465025877\\Desktop\\lista06_Cplus\\ex06\\ex06.cpp",
+              "RelativeToolTip": "ex06\\ex06.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T14:04:15.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
